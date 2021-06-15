@@ -1,0 +1,16 @@
+di.phncdn.com
+as.phncdn.com
+ai.phncdn.com
+ci.phncdn.com
+cs.phncdn.com
+ss.phncdn.com
+cdn1-smallimg.phncdn.com
+ads.trafficjunky.net
+static.trafficjunky.com
+media.trafficjunky.net
+vz-cdn2.trafficjunky.net
+hw-cdn2.trafficjunky.net
+a.adtng.com
+hw-cdn2.adtng.com
+m1.nsimg.net
+m2.nsimg.net
